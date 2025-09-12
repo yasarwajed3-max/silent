@@ -124,5 +124,11 @@
         "key": "s6RSY1bn30",
         "expirydate": "12-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1b471f4a180046d8",
+        "key": "xV2yKi1Z5a",
+        "expirydate": "12-09-2028",
+        "Allowoffline": false
     }
 ]
