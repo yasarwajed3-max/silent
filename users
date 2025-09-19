@@ -208,5 +208,11 @@
         "key": "CH4LrYaFS3",
         "expirydate": "18-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a1acc82c61c61249",
+        "key": "Ogr7dT2sjM",
+        "expirydate": "19-09-2028",
+        "Allowoffline": false
     }
 ]
