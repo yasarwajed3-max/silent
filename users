@@ -232,5 +232,11 @@
         "key": "RawGMUbYif",
         "expirydate": "22-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "48d0eae37e32e84d",
+        "key": "5s4jXxqoct",
+        "expirydate": "23-10-2025",
+        "Allowoffline": false
     }
 ]
