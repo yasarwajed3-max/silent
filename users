@@ -304,5 +304,11 @@
         "key": "vdZp24bnNV",
         "expirydate": "03-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "644a39c76d6d7f5e",
+        "key": "DXVrMnPOkS",
+        "expirydate": "04-10-2028",
+        "Allowoffline": false
     }
 ]
