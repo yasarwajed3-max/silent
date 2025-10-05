@@ -310,5 +310,11 @@
         "key": "DXVrMnPOkS",
         "expirydate": "04-10-2028",
         "Allowoffline": false
+    },
+    {
+        "device_id": "48c260954428ffac",
+        "key": "J8kR4tMW7d",
+        "expirydate": "05-11-2025",
+        "Allowoffline": false
     }
 ]
