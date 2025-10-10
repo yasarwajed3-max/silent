@@ -364,5 +364,11 @@
         "key": "PArSDmJjGT",
         "expirydate": "10-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "fe347626209db4d2",
+        "key": "bB3Ep5W1IC",
+        "expirydate": "10-10-2028",
+        "Allowoffline": false
     }
 ]
