@@ -376,5 +376,11 @@
         "key": "LEAmoJRis8",
         "expirydate": "13-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8e3fa52c0b2e7948",
+        "key": "xXvBz15DGt",
+        "expirydate": "14-10-2028",
+        "Allowoffline": false
     }
 ]
