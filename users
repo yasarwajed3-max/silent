@@ -88,5 +88,11 @@
         "key": "BFqJriwC32",
         "expirydate": "10-02-15496",
         "Allowoffline": false
+    },
+    {
+        "device_id": "fe91988352ad7026",
+        "key": "FIVedvgpWs",
+        "expirydate": "10-08-15495",
+        "Allowoffline": false
     }
 ]
