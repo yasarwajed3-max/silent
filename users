@@ -154,5 +154,11 @@
         "key": "YaWGyLNfqo",
         "expirydate": "20-08-2850",
         "Allowoffline": false
+    },
+    {
+        "device_id": "34b2a03d166af58a",
+        "key": "CvIRnMaLiT",
+        "expirydate": "20-08-9180",
+        "Allowoffline": false
     }
 ]
