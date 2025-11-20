@@ -160,5 +160,11 @@
         "key": "CvIRnMaLiT",
         "expirydate": "20-08-9180",
         "Allowoffline": false
+    },
+    {
+        "device_id": "48d0eae37e32e84d",
+        "key": "QEh7qTV46l",
+        "expirydate": "20-07-2073",
+        "Allowoffline": false
     }
 ]
