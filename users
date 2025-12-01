@@ -232,5 +232,11 @@
         "key": "HeIUMACYVa",
         "expirydate": "30-07-2029",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7c23fd7de3ac3ee5",
+        "key": "q2GKcYLxeP",
+        "expirydate": "01-04-2033",
+        "Allowoffline": false
     }
 ]
