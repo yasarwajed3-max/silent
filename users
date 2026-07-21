@@ -4,11 +4,5 @@
     "key": "j",
     "expirydate": "20-07-2030",
     "Allowoffline": true
-  },
-  {
-    "device_id": "d3f697b62245ca89",
-    "key": "ofbar",
-    "expirydate": "22-07-2058",
-    "Allowoffline": false
   }
 ]
