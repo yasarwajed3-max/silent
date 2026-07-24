@@ -10,5 +10,11 @@
     "key": "MESTER",
     "expirydate": "22-07-2030",
     "Allowoffline": true
+  },
+  {
+    "device_id": "c08c6de1bc287897",
+    "key": "ET",
+    "expirydate": "24-07-2027",
+    "Allowoffline": true
   }
 ]
